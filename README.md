@@ -1,0 +1,2 @@
+# MER
+modelo relacional (MER)
