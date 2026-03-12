@@ -1,6 +1,6 @@
 # MER
 modelo relacional (MER)
-Modelo Relacional construido do zero a pedido na máteria de Banco de Dados
+máteria de Banco de Dados
 Descrição: 
 Tema: Sistema de gerenciamento de jogos digitais da empresa EA
 1. Contextualização:
